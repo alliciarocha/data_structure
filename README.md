@@ -1,0 +1,4 @@
+# SIMULAÇÃO DE REALIZAÇÃO DE EXAMES RAIO-X (PARTE 2)
+## CRIADORES:
+- Allicia Rocha
+- Vitor Ramos
